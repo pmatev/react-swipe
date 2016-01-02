@@ -1,8 +1,8 @@
 {
   "name": "react-swipe",
-  "version": "2.3.1",
-  "description": "Brad Birdsall's Swipe.js, as a React component",
-  "homepage": "https://github.com/jed/react-swipe",
+  "version": "2.3.2",
+  "description": "Fork of jed/react-swipe",
+  "homepage": "https://github.com/pmatev/react-swipe",
   "keywords": [
     "react",
     "component",
@@ -13,7 +13,7 @@
   "author": "Jed Schmidt <where@jed.is>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jed/react-swipe.git"
+    "url": "git://github.com/pmatev/react-swipe.git"
   },
   "main": "react-swipe.js",
   "license": "MIT",
